@@ -37,6 +37,7 @@ once an entire fleet has been hit by a user we will notify that fleet by sequenc
 whoever first sunk all the opponent's fleet is the winner and we will notify him.
 
 How to play - Single Player
+
 easy level
 run - single_easy.hs in ghci
 
@@ -45,6 +46,7 @@ then the user will be asked to set his ship same as above in multiplayer but thi
 Then start playing the game same as above
 
 How to play - Single Player
+
 medium level
 run - single_medium.hs in ghci
 
@@ -53,6 +55,7 @@ then the user will be asked to set his ship same as above in multiplayer but thi
 Then start playing the game same as above
 
 How to play - Single Player
+
 Hard level
 run - single_hard.hs in ghci
 
