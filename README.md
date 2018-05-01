@@ -37,6 +37,7 @@ once an entire fleet has been hit by a user we will notify that fleet by sequenc
 whoever first sunk all the opponent's fleet is the winner and we will notify him.
 
 How to play - Single Player
+
 easy level
 run - single_easy.hs in ghci
 
